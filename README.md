@@ -1,2 +1,2 @@
 My first readme
-README.md
+README from GitHub.com
